@@ -1,4 +1,4 @@
-# CS 5293, Spring 2020 Project 1
+
 ## The Redactor
   The sensetive information which is publicly disclosed should be redactioned before setting it out.The sensitive data such as names,places, phone numbers,etc must be hidden.Documents such as police reports, court transcripts, and hospital records all containing sensitive information. Redacting this information is often expensive and time consuming.
 # Author
